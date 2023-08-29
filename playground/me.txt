@@ -1,5 +1,0 @@
-{{#user}}
-Name: Prashant Singh
-Skills: CI/CD pipeline, Jenkins, Docker, AWS, Kubernetes, shell Script, Terraform, Linux, Ansible
-Email: singhprashant2599@gmail.com
-{{/user}}
